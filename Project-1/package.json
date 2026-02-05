@@ -1,0 +1,13 @@
+{
+  "name": "task-manager-api-mihirtrivedi",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  } 
+
+  
+}
